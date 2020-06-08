@@ -24,7 +24,7 @@
     "react-navigation-material-bottom-tabs": "^1.1.1",
     "socket.io-client": "^2.3.0",
     "watchman": "^1.0.0",
-    "yarn": "^1.22.4"
+    "yarn": "^1.22.0"
   },
   "devDependencies": {
     "babel-preset-expo": "^5.2.0"
